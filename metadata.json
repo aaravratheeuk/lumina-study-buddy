@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Study Buddy",
+  "description": "The ultimate AI study companion for Year 1-11 students. Get homework help, generate diagrams, and talk to a Socratic tutor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
